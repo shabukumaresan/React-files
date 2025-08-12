@@ -1,0 +1,17 @@
+.na{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: orange;
+    padding: 5px 50px;
+}
+
+div ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+    list-style-type: none;
+    color: white;
+    cursor: pointer;
+}
